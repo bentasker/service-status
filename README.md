@@ -6,6 +6,10 @@ I previously operated a seperate Service-Status log, however, having [change my 
 This repo is used to detail incidents affecting service - the most recent incidents will be linked to from this README, but older reports can be found within the directory heirachy
 
 
+### Graphs
+
+There are some service status/availability graphs available at [Uptime Robot](https://stats.uptimerobot.com/r7L56IAvO5).
+
 
 
 ### Incidents
