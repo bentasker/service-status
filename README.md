@@ -15,7 +15,7 @@ There are some service status/availability graphs available at [Uptime Robot](ht
 
 ### Current State
 
-Current State: ![Green](imgs/green.png) Online
+![Online](imgs/green.png)
 
 ----
 
