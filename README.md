@@ -11,6 +11,13 @@ This repo is used to detail incidents affecting service - the most recent incide
 There are some service status/availability graphs available at [Uptime Robot](https://stats.uptimerobot.com/r7L56IAvO5).
 
 
+----
+
+### Current State
+
+Current State: ![Green](imgs/green.png) Online
+
+----
 
 ### Incidents
 
