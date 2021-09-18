@@ -21,6 +21,7 @@ There are some service status/availability graphs available at [Uptime Robot](ht
 
 ### Most Recent Incidents
 
+* [2021-09-18](incidents/2021/20210918.txt.md) - BunnyCDN returning 502s
 * [2021-09-05](incidents/2021/20210905.txt.md) - Interruption to BunnyCDN hosted assets
 * [2021-07-29](incidents/2021/20210729.txt.md) - Interruption to BunnyCDN hosted assets
 * [2021-07-28](incidents/2021/20210728.txt.md) - Interruption to BunnyCDN hosted assets
