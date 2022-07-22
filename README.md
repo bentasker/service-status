@@ -8,8 +8,10 @@ This repo is used to detail incidents affecting service - the most recent incide
 
 ### Graphs
 
-There are some service status/availability graphs available at [Uptime Robot](https://stats.uptimerobot.com/r7L56IAvO5).
+There are some service status/availability graphs available 
 
+* [Uptime Robot](https://stats.uptimerobot.com/r7L56IAvO5).
+* [Latency/Availability in different regions](https://eu-central-1-1.aws.cloud2.influxdata.com/share/4TIT2lmeZ8L9eSc-O7i5W)
 
 ----
 
@@ -17,12 +19,4 @@ There are some service status/availability graphs available at [Uptime Robot](ht
 
 ![Online](imgs/green.png)
 
-----
 
-### Most Recent Incidents
-
-* [2021-09-18](incidents/2021/20210918.txt.md) - BunnyCDN returning 502s
-* [2021-09-05](incidents/2021/20210905.txt.md) - Interruption to BunnyCDN hosted assets
-* [2021-07-29](incidents/2021/20210729.txt.md) - Interruption to BunnyCDN hosted assets
-* [2021-07-28](incidents/2021/20210728.txt.md) - Interruption to BunnyCDN hosted assets
-* [2021-06-22](incidents/2021/20210622.txt.md) - Interruption of DNS resolution
