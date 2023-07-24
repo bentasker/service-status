@@ -11,7 +11,7 @@ This repo is used to detail incidents affecting service - the most recent incide
 There are some service status/availability graphs available 
 
 * [Uptime Robot](https://stats.uptimerobot.com/r7L56IAvO5).
-* [Latency/Availability in different regions](https://eu-central-1-1.aws.cloud2.influxdata.com/share/4TIT2lmeZ8L9eSc-O7i5W)
+* [Latency/Availability in different regions](https://bentasker.github.io/status_page/)
 
 ----
 
